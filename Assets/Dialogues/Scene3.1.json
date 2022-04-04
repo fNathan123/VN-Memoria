@@ -1,0 +1,65 @@
+{
+    "background": "BG-Orphanage",
+    "music": "lesfm-drama",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Tims"
+        },
+        {
+            "name": "Chloe"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "Will arrive at Chloe’s orphanage. The Orphanage is as well as it could be, it has seen better years but at the very least it is well maintained."
+        },
+        {
+            "name": "Narator",
+            "sentence": "As Will is nearing the entrance he spots a familiar figure."
+        },
+        {
+            "name": "Narator",
+            "sentence": "The figure is Tims, like Anna and Will, he also grew up in the orphanage, so they are quite close."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Tims seems to be fixing something near the entrance."
+        },
+        {
+            "name": "Tims",
+            "sentence": "There . . . that should do it, who knows the random stuff Chloe teaches would come in handy like this. Thankfully the rain stopped.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        }, 
+        {
+            "name": "Will",
+            "sentence": "....",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Tims",
+            "sentence": "Will? Oh my god Will. . . What are you doing?",
+            "pos": "L",
+            "expression": "Idle",
+            "effect":"shake"
+        }, 
+        {
+            "name": "Will",
+            "sentence": "....",
+            "pos": "R",
+            "expression": "Sad"
+        }, 
+        {
+            "name": "Tims",
+            "sentence": "Have you been bathing in the rain!? You are soaking. Let’s get you inside.",
+            "pos": "L",
+            "expression": "Idle",
+            "effect":"shake"
+        }
+    ]
+}

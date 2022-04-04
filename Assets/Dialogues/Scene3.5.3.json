@@ -1,0 +1,29 @@
+{
+    "background": "BG-Apartment",
+    "music": "spheria-dont-forget-me",
+    "participants": [
+        {
+            "name": "Will"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Will",
+            "sentence": "...",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Will lets out a weak smile remembering that and he picks up the book."
+        },
+        {
+            "name": "Narator",
+            "sentence": "When he flips the page, a paper falls out of the books."
+        },
+        {
+            "name": "Narator",
+            "sentence": "He picks the paper up and turns out it was a letter from Anna."
+        }
+    ]
+}

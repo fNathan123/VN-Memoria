@@ -1,0 +1,54 @@
+{
+    "background": "BG-Apartment",
+    "music": "spheria-dont-forget-me",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Anna",
+            "sentence": "Will. Hey William.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Oh, what is it Anna?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Where were you? You seem to be in your own world just now.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Really? Well i was just wondering if this is a dream you know? Because it feels like a dream, spending everyday with you.",
+            "pos": "R",
+            "expression": "Grin"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Anna then hits Will with the book she is reading."
+        },
+        {
+            "name": "Will",
+            "sentence": "Ouch.. what was that for",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "It hurts right? That means you are not dreaming. He he",
+            "pos": "L",
+            "expression": "Smile-Side"
+        }
+    ]
+}

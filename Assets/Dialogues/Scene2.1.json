@@ -1,0 +1,50 @@
+{
+    "background": "BG-Marketplace",
+    "music": "lesfm-tearful",
+    "participants": [
+      {
+        "name": "Will"
+      },
+      {
+        "name": "Anna"
+      },
+      {
+        "name": "Baker"
+      },
+      {
+        "name": "Painter"
+      }
+    ],
+    "sentences": [
+      {
+        "name": "Narator",
+        "sentence": "Will walks away from his apartment, hoping for the time to pass so he does not have to think or remember about anything.",
+        "pos": "L",
+        "expression": "Idle"
+      },
+      {
+        "name": "Narator",
+        "sentence": "But every time he passes by some store he and Anna frequent, it would make him remember Anna even more.",
+        "pos": "L",
+        "expression": "Idle"
+      },
+      {
+        "name": "Narator",
+        "sentence": "As he walks, Will catches a sweet smell he can never like.",
+        "pos": "L",
+        "expression": "Idle"
+      },
+      {
+        "name": "Narator",
+        "sentence": " It’s the smell of a bakery, a very nostalgic one.",
+        "pos": "L",
+        "expression": "Idle"
+      },
+      {
+        "name": "Narator",
+        "sentence": " Will glances to his left, and he sees a familiar bakery. It is the bakery that he and Anna frequently visit.",
+        "pos": "L",
+        "expression": "Idle"
+      } 
+    ]
+  }

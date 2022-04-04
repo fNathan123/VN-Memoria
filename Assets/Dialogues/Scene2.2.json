@@ -1,0 +1,203 @@
+{
+  "background": "BG-Bakery",
+  "music": "lesfm-tearful",
+  "flashback": true,
+  "participants": [
+    {
+      "name": "Will"
+    },
+    {
+      "name": "Anna"
+    },
+    {
+      "name": "Auntie"
+    }
+  ],
+  "sentences": [
+    {
+      "name": "Anna",
+      "sentence": "Good morning auntie!",
+      "pos": "L",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Will",
+      "sentence": "Morning auntie.",
+      "pos": "L",
+      "expression": "Smile"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "Ah! Good morning Anna, Will. Welcome, welcome!",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "Are you gonna buy the usual?",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Anna",
+      "sentence": "Yes, please!",
+      "pos": "L",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Will",
+      "sentence": "I’m gonna wait outside.",
+      "pos": "L",
+      "expression": "Sad"
+    },
+    {
+      "name": "Anna",
+      "sentence": "You really need to get used to this smell. It’s just bread",
+      "pos": "L",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Will",
+      "sentence": "I’ll go in with you when I have a cold or something.",
+      "pos": "L",
+      "expression": "Sad2"
+    },
+    {
+      "name": "Narator",
+      "sentence": "The Store auntie prepares the usual thing that Anna bought and puts in an extra.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "Here you go, thank you for the purchase.",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Anna",
+      "sentence": "Wait, I didn't buy this one.",
+      "pos": "L",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Narator-Participant",
+      "sentence": "Anna said, pointing at the extra bread in the plastic bags."
+    },
+    {
+      "name": "Auntie",
+      "sentence": "It’s for him.",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Anna",
+      "sentence": "He doesn’t like the smell of bread, weird right? He'd eat it fine though",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "Oh I’ve seen some customers like him, though i don’t get what they don’t like about the smell of freshly baked bread.",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "But let’s get him used to it. Someday, maybe the two of you will dine in here together. And maybe have some of the other menu as well not just the bread",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Anna",
+      "sentence": "Yeah. . . I hope so, and maybe someday I can also tell him to get me some bread by himself.",
+      "pos": "L",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "Hahaha ! Yeah, I guess you can do that too.",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Auntie",
+      "sentence": "Anyway,  that one is on the house, hope you continue buying from time to time",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Anna",
+      "sentence": "Thank you so much, auntie.",
+      "pos": "L",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Narator",
+      "sentence": "After that lovely talk and getting an extra from the bakery, Anna leaves the bakery with a smile. She goes to Will, who is waiting outside.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Will",
+      "sentence": "Are you done?",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Narator",
+      "sentence": "Anna reaches into the plastic bag and gives the extra croissant that the auntie gives her and gives it to Will.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Will",
+      "sentence": "Huh? I don’t want this one. Didn’t I tell you to buy the usual?",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Anna",
+      "sentence": "It’s an extra croissant from the auntie for you. It’s a HIGH QUALITY croissant and it’s free, so you better eat it.",
+      "pos": "R",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Will",
+      "sentence": "Fine. . . Give it to me",
+      "pos": "L",
+      "expression": "Sad2"
+    },
+    {
+      "name": "Anna",
+      "sentence": "You know I hope someday. . . Someday, you will always walk here alone. And gets me some high quality croiiisssant. Someday. . .",
+      "pos": "R",
+      "expression": "Smile-Side"
+    },
+    {
+      "name": "Will",
+      "sentence": "What are you talking about?",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Narator",
+      "sentence": "That was just a normal day. Anna loves her bread. But Will just does not like the smell, even though he can eat it just fine.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Narator",
+      "sentence": "That should be one extremely forgettable memory of him and Anna walking together to get some bread. But he remembers. Even though he doesn’t want to.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Narator",
+      "sentence": "Will continue his walk. Hoping that whatever memory about Anna or that bakery he has, he won’t accidentally remember it again.",
+      "pos": "L",
+      "expression": "Idle"
+    }
+
+  ]
+}

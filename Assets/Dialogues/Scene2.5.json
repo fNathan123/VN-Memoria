@@ -1,0 +1,50 @@
+{
+    "background": "BG-Park",
+    "music": "lesfm-emotional",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "Everything is making Will remember. . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "So Will started running, but the more he runs, the more he remembers. He doesn’t want to remember anything.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "He keeps on running. His leg is tired. And he’s out of breath. But he keeps on running.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "He runs until he reaches one of the places that’s so important to him and his leg stops",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "This is the last place he would want to be right now.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "It’s a tree. Or more precisely. . . The tree where they become whole.",
+            "pos": "L",
+            "expression": "Idle"
+        }
+    ]
+}

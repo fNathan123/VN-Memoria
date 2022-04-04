@@ -1,0 +1,111 @@
+{
+    "background": "BG-Flower",
+    "music": "lesfm-emotional",
+    "flashback": true,
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "As if to mock his desire to not remember, Will accidentally glances at a flower shop. Just like the bakery, this is one of the shops that he and Anna know.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "That day, Will and Anna were talking about a flower they both saw in the shop.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hey hey Will, look. Why do I feel like we have seen that flower before?",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Really? Well, It does seem familiar.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hmm. . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Hmm. . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Oh oh oh, I remember now. We’ve seen this in that book.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "What book?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "That book, the one that tells a story about (. . . .).",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Uhh. . . Which one was that?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "The one with that flower in the cover, c'mon. . . we read it together in the library.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Hurghhh. . . I. . . still don’t remember haha.",
+            "pos": "R",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "ugh. . . Actually nevermind that. . . Let’s just go.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Anna begins walking away without waiting for Will.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Eh. . .? Eh. . . Hey Anna, wait for me.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Will starts walking, following Anna. Anna walks fast, but Will isn’t slow either. He doesn’t want to lose her. But that was that day.",
+            "pos": "L",
+            "expression": "Idle"
+        }
+    ]
+}

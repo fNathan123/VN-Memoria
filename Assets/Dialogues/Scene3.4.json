@@ -1,0 +1,233 @@
+{
+    "background": "BG-Library",
+    "music": "spheria-dont-forget-me",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Tims"
+        },
+        {
+            "name": "Chloe"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "He reminisced about spending his time with Anna a lot here when they were still kids. Chloe walks into the library and finds Will."
+        },
+        {
+            "name": "Chloe",
+            "sentence": "I have a feeling I'd find you here.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "She talks about how close he is to Anna and always spending time here even though he is not really a fan of reading but will still stay and read here with Anna."
+        },
+        {
+            "name": "Chloe",
+            "sentence": "But. . . Why are you here?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ".....",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "You're coming back here. Even though knowing her, she wants you to move on. . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "You're here. She won't be happy if she knows that you're here, this far back.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Then what should I do? Forget everything?",
+            "pos": "R",
+            "expression": "Sad2"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "Of course not.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Then what? Up until now, we've always been together. If I forget now... Then we're no longer together.",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Will",
+            "sentence": "And everything that has ever happened will lose its meaning. But if I don't... I will just be here. Standing still.",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "No one is telling you to forget, but what would she think if she sees you like this?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ".....",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "I know that the two of you complete one another. There's you and there's Anna.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "If you stop walking, she'll always drag you forward.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "If she stopped running, you'll always carry her on your back.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "However now, there's only one left of the two of you.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "If one of you stopped walking, stopped running... can't be dragged, can't be carried on your back... do you have to stop?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "If you stop and wait, will she stand up and start to walk again with you?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ".....",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "That's why she would want you to keep on walking. To move onwards Will. . . moving onwards does not mean to forget.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "It’s about learning to live a full and happy life even as you miss and long for what we have lost.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "It’s about remembering and honoring the one we loved while also embracing the beauty and fullness of the life we still get to live.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "We move forward with life, embracing the fullness of it, even as our loss becomes part of who we now are.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "However, words are just words. Without a heart to accept it, what came out of Chloe's mouth will just be a series of sounds."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Nothing will change. Everything will be the same. However for Will, tomorrow won't be the same."
+        },
+        {
+            "name": "Will",
+            "sentence": "Can I really move onwards without her?",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Tomorrow will change."
+        },
+        {
+            "name": "Will",
+            "sentence": "Even though my heart ache so much thinking about her.",
+            "pos": "R",
+            "expression": "Sad2"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Tomorrow will always change."
+        },
+        {
+            "name": "Will",
+            "sentence": "Even now i still wish she would welcome me home in that apartment.",
+            "pos": "R",
+            "expression": "Sad"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "And everything will always change. Whether Anna, Chloe, or anyone in his life are still a part of his life or not."
+        },
+        {
+            "name": "Chloe",
+            "sentence": "I know it is difficult Will, but you are not alone. There are people who cherish you.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "Try to see what you still have rather than what you don’t. I’m sure she’s not happy seeing you blaming yourself like this.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Because as someone who has always been there for someone, as someone who always has someone that will be there for him, and as someone who's forced to stand alone in his own journey... from now... until some far unknown future..."
+        },
+        {
+            "name": "Will",
+            "sentence": "What should I do?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "I am not sure Will . . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "But I know for sure that you should not hide anymore. And maybe. . . maybe then you will find your answer.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The conversation with Chloe encourages Will to go back to his apartment for the first time since the night Anna died."
+        }
+    ]
+}

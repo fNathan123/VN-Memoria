@@ -1,0 +1,28 @@
+{
+  "background": "BG-Apartment",
+  "music": "lesfm-emotional",
+  "participants": [
+    {
+      "name": "Will"
+    },
+    {
+      "name": "Anna"
+    }
+  ],
+  "sentences": [
+    {
+      "name": "Will",
+      "sentence": "Anna . . .",
+      "pos": "L",
+      "expression": "Sad2"
+    },
+    {
+      "name": "Narator-Participant",
+      "sentence": "Will ,who doesn't want to succumb his sadness and is no longer able to bear the silence anymore, heads towards the door and leaves the apartment."
+    },
+    {
+      "name": "Narator-Participant",
+      "sentence": "Then he just started walking away aimlessly."
+    }
+  ]
+}

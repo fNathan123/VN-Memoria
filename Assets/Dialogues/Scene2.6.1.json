@@ -1,0 +1,38 @@
+{
+    "background": "BG-Tree",
+    "music": "lesfm-emotional",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "The place that Will decided to take Anna that day was nothing special to anyone else but them."
+        },
+        {
+            "name": "Narator",
+            "sentence": "It was just a free garden in the city, but it was the place where Will finally got the courage to ask Anna to be his girlfriend a long time ago."
+        },
+        {
+            "name": "Narator",
+            "sentence": "They were very close since they were little but Will finally voiced his feelings to Anna in this very garden."
+        },
+        {
+            "name": "Narator",
+            "sentence": "At this place, there’s this one tree. The tree is not that unique. It’s just one simple aspen tree."
+        },
+        {
+            "name": "Narator",
+            "sentence": "It’s gold, majestically amplifies the sunshine, and of course, beautiful. But that’s just like any other aspen tree."
+        },
+        {
+            "name": "Narator",
+            "sentence": "And there are many of them around this park. But this one, at least for Will, and Anna, is the most precious."
+        }
+    ]
+}

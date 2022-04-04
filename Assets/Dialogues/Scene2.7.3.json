@@ -1,0 +1,92 @@
+{
+    "background": "BG-Tree",
+    "music": "juliush-rain-tears",
+    "participants": [
+        {
+            "name": "Will"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Will",
+            "sentence": "Pant... pant...",
+            "pos": "L",
+            "expression": "Sad"
+        }, 
+        {
+            "name": "Narator-Participant",
+            "sentence": "Remembering those dreadful memories, Will suddenly opens his eyes."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "He tries to catch his breath."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "His face is pale and his body is trembling. He’s been laying around for a while now. Yet, his body is tired."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "A moment later..."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will is wet and freezing, but he still didn’t want to go back to that empty apartment."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "His state of mind is a mess. His body is weak. He doesn’t know where to go or what to do."
+        },
+        {
+            "name": "Will",
+            "sentence": "...............",
+            "pos": "L",
+            "expression": "Sad"
+        },
+        {
+            "name": "Will",
+            "sentence": "I feel so sick.",
+            "pos": "L",
+            "expression": "Sad2"
+        },
+        {
+            "name": "Will",
+            "sentence": "I hate this, I just hate everything. . .",
+            "pos": "L",
+            "expression": "Sad2"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will suddenly feels a sharp pain in his head, and then he throws up"
+        },
+        {
+            "name": "Will",
+            "sentence": "Ugh....",
+            "pos": "L",
+            "expression": "Sad2",
+            "effect":"shake"
+        },
+        {
+            "name": "Will",
+            "sentence": "I don’t want to go home.",
+            "pos": "L",
+            "expression": "Sad"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "His head is empty. His eyes are cloudy. He stands up and without knowing his legs start moving by themself."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "His mind forgets but his body remembers."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "His mind denies the pain yet his body seeks for comfort."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Without knowing, he starts walking to the only other place that he used to call home."
+        }
+    ]
+}

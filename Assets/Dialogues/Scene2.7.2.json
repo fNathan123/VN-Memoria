@@ -1,0 +1,483 @@
+{
+    "background": "BG-Hospital",
+    "music": "spheria-dont-forget-me-alternative-version",
+    "flashback" : true,
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Will",
+            "sentence": "What are you doing?",
+            "pos": "L",
+            "expression": "Idle"
+        }, 
+        {
+            "name": "Anna",
+            "sentence": "Watching TV.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "It’s rare not seeing you reading a book.",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": ".........",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "What’s on the tv?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "...I don’t know.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "So you... you didn’t watch it?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "I watched it. I just... don’t care enough about what’s on it.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ".........",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "It’s some random news about increasing car prices. It doesn’t concern Will nor Anna. But she puts the TV on that anyway."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Even though it doesn't make her sad or happy. It's just... distracting. It’s better than silence."
+        },
+        {
+            "name": "Will",
+            "sentence": "I bought you some bread.",
+            "pos": "L",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Thanks.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Is the food still bad?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "I think it will stay bad even after ten years.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Haha... I can see that.",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "But I'm starting to get used to it. It’s not that bad now.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "I see. If you need something good other than bread, just tell me. I think I’m allowed to bring some food other than bread here.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hmm... As long as it is healthy-",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "......",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Healthy. At this time, whether it's Will or Anna, neither of them like this word."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The word always stops whatever they’re doing."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Making the air awkward. Sometimes, even a little tense."
+        },
+        {
+            "name": "Anna",
+            "sentence": "But if you already bought some, just put it in the fridge. I’ll get some later.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Oh... Yea, you can get some later. I’ll just do that.",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": ".......",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The light from the window starts to get yellow. While it becomes a little bit brighter, the shadows also become a little bit thicker."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The tray is not fully open. So most of the room is almost plain dark. That includes Anna."
+        },
+        {
+            "name": "Anna",
+            "sentence": "It’s starting to get dark . . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah... It’s almost past six now.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "How long can you stay here?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "I don't know, probably until nine. But I can just wait until the nurses kick me out.",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "That’s going to be more entertaining than watching that TV. . .",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Really?",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Yeah.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "What will you do after I leave?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hmm... You bought some food, right? I guess I'll empty the fridge first.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "That’s not like you. I thought you would finish all those books in one night. Or think of something interesting",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "What kind of reading speed do you think i have haha.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Anna looks at the pile of books by her side and then out the window. She might be trying to find something interesting in her head, but she stays silent for quite some time."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will starts cutting some bread while he waits for her answer."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "However, even after the lights start to fade, she keeps looking out the window and stays silent."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "It’s like she can't think of anything. Even though normally, she would just say or do something so random out of the blue."
+        },
+        {
+            "name": "Will",
+            "sentence": " So . . . did you think of something interesting?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hmm... This is a hard question.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Well, you don't have to answer if you don't have any answer.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "...",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Oh yea, Chloe said the renovation is almost finished.",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Really? She said the library would be renovated too, right?",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah. We can go there after you leave. That’s something interesting that we can look forward to.",
+            "pos": "L",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Yeah. . . maybe I'll find a new book in those libraries now.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "That’s right, You always find a book interesting.",
+            "pos": "L",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Because all of them are interesting.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Really? I don’t find cooking books interesting.",
+            "pos": "L",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "You can always find some weirdly interesting food in them, right? That’s what makes them really interesting.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Hmm. . . If you say so.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So... That's it. The first thing I'll do is visit the renovated library. It’s also been a while since we helped Chloe around the orphanage.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah. . .That is something that we can look forward to.",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The two are silent. They are both looking at the TV. It’s still talking about the car prices."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "But just like Anna, Will doesn’t care. As long as both of them watch the TV--or anything--together, then the detail doesn't matter."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Both of them are silently looking at the TV until it’s completely dark outside."
+        },
+        {
+            "name": "Anna",
+            "sentence": "Do you remember what you said that day?",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "What day?",
+            "pos": "L",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "You said you want to live for someone else. You said you no longer want anything for yourself, so you want to live for someone else.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Ooh... Yeah, I did say that.",
+            "pos": "L",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "What will you do if you can't live for me anymore?",
+            "pos": "R",
+            "expression": "Sad-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": ".....",
+            "pos": "L",
+            "expression": "Sad"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Anna delivers her question like it’s some small talk. She is even still munching bread on her mouth."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "However for Will, that’s the scariest question he ever heard. A “What if” question."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "A question about something that might or might not, so it might not matter at all in the end."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "But still, Will doesn’t want to entertain it."
+        },
+        {
+            "name": "Will",
+            "sentence": "Where is this coming from?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": ".....",
+            "pos": "R",
+            "expression": "Sad-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": ".....",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Will . . . I . .",
+            "pos": "R",
+            "expression": "Sad-Side-Flip"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Anna was about to say something. Something that Will needed to hear. Something really important. Something about the future."
+        },
+        {
+            "name": "Will",
+            "sentence": "Anna?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "However, she didn’t say anything. Instead, she’s holding her own body. Tightly."
+        },
+        {
+            "name": "Will",
+            "sentence": "Are you okay?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Wait I'll call the doctor.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will understands what’s going on and runs outside to call for the doctor. The Doctor arrived with the nurses to do her treatment."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "It was just like any other day.” Everything seemed fine but little did he know, It was their last moment together."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Couple hours after her treatment, more and more nurses with equipment came to Anna’s room."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Will was powerless and can only watch from a distance."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Anna suffered from complications that led to organ failure."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Before he knew it, She was gone. Lying in bed lifeless."
+        },
+        {
+            "name": "Narator",
+            "sentence": " Anna was dead."
+        }
+    ]
+}

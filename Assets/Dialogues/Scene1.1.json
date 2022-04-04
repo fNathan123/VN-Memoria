@@ -1,0 +1,116 @@
+{
+  "background": "BG-Apartment_Hallway",
+  "music": "lesfm-sorrow",
+  "participants": [
+    {
+      "name": "NeighborHusband"
+    },
+    {
+      "name": "NeighborWife"
+    },
+    {
+      "name": "Neighbor411"
+    }
+  ],
+  "sentences": [
+    {
+      "name": "Narator",
+      "sentence": "A few months ago"
+    },
+    {
+      "name": "Narator",
+      "sentence": "This is an apartment that is not too expensive but it gives great accommodation. It has quite many floors, but the floor that is relevant is floor 4."
+    },
+    {
+      "name": "Narator",
+      "sentence": "It seems that a new couple is moving into this floor on room 410. They come bearing gifts for their next door neighbor."
+    },
+    {
+      "name": "Narator",
+      "sentence": "Knock knock . . .",
+      "sfx": "knocking"
+    },
+    {
+      "name": "Narator",
+      "sentence": "The couple tries to knock on room 409. The couple wait a while but it looks like no one is home. So they tried the other neighbor, room 411."
+    },
+    {
+      "name": "Narator",
+      "sentence": "Knock knock . . .",
+      "sfx": "knocking"
+    },
+    {
+      "name": "Neighbor411",
+      "sentence": "Yeah. . yeah. . Coming.",
+      "pos": "R",
+      "expression": "Idle",
+      "effect": "shake",
+      "sfx": "door-open"
+    },
+    {
+      "name": "NeighborHusband",
+      "sentence": "Hello, We’re moving in to 410, so we are saying hi and we have a gift for you guys",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Neighbor411",
+      "sentence": "Oh hello, that is very kind of you. Thank you",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "NeighborWife",
+      "sentence": "By the way, is there any tenant in room 409? We tried to knock a few times but no one came",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Neighbor411",
+      "sentence": "Room 409 eh? I think there was a couple living there. But I rarely see them nowadays. Maybe both of them are still working outside.",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "NeighborWife",
+      "sentence": "Ah I see. . . Thank you for your time, I hope we can get along well.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "Neighbor411",
+      "sentence": "Yeah, me too. Hope you guys like the place. Thanks once again for the gift",
+      "pos": "R",
+      "expression": "Idle",
+      "effect": "shake"
+    },
+    {
+      "name": "NeighborWife",
+      "sentence": "Ah I see. . . Thank you for your time, I hope we can get along well.",
+      "pos": "L",
+      "expression": "Idle"
+    },    
+    {
+      "name": "Narator",
+      "sentence": "Ker-chak - the door closes. The couple looks at room 409.",
+      "sfx" : "door-closed"
+    },
+    {
+      "name": "NeighborHusband",
+      "sentence": "Maybe we'll try again tomorrow?",
+      "pos": "L",
+      "expression": "Idle"
+    },{
+      "name": "NeighborWife",
+      "sentence": "Yes let’s do that",
+      "pos": "R",
+      "expression": "Idle"
+    },    
+    {
+      "name": "Narator",
+      "sentence": "The couple then went on towards their apartment number and start unpacking their stuffs. The new couple does not know is that while there is an occupant on room 409, that room is rarely in use now."
+    }
+
+
+  ]
+}

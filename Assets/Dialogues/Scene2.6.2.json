@@ -1,0 +1,359 @@
+{
+    "background": "BG-Tree",
+    "music": "lesfm-calm-peaceful",
+    "flashback": true,
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Anna",
+            "sentence": "You decided to come here when you told me it’s going to be a great date?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "We could have gone anywhere else you know. Well this was where we went on our first date so you get a pass.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "It’s not a date. I didn’t say that. You said that.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Well it is a date. Usually, you just drag me somewhere unimportant just to say something like ‘cool’ or ‘dayum’.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "This time, for some unknown reason, you didn’t drag me and actually start by asking.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Anna",
+            "sentence": "That character development should’ve happened 20 years ago.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "What? I ask every now and then, right? Like every time I ask you to just add three sugar cubes and not four to my coffee.",
+            "pos": "R",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Will",
+            "sentence": "Or when I ask you to open the window when bees get inside.",
+            "pos": "R",
+            "expression": "Grin"
+        },
+        {
+            "name": "Anna",
+            "sentence": "And you never call a mistake ‘Mistake’, you call them ‘Unintentionally postponed success.’ Just say what it is, Will. It is what it is..",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": ". . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": ". . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "It’s not a date.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Ugh, okay.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ". . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": ". . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ". . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So what are we doing here?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "I don’t know. Maybe just sit down here for a while.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "They stay here for a while. No one said anything. They are not alone as there are many people in the park."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "But at the moment everyone does not matter, it is as if they are the only one there and Will started a conversation that will make that day very special."
+        },
+        {
+            "name": "Will",
+            "sentence": "Anna...",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "What?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "You see. I’ve been sitting down here every now and then, because sitting here makes me think about a lot of things.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Things like work for example. At first I would gladly do overtime and try to get promoted as quickly as possible.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "........",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "But nowadays, I don’t have any motivation to do so.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Even though i’m sure i’m nearing a promotion at work, I just leave at five and a lot of times I sit here before going home.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "So, I’ve been thinking. If I work really, really hard. And then get promoted.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "And then start working really, really hard again. And then get promoted again.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "And then, if possible, someday, i reach some kind of peak where i no longer need to do anything anymore and just... live off my years of hard work--",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "That’s good, right?",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah maybe, But if I don't enjoy it? Then . . . what is the point?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "So I want to have some kind of purpose. If I have a purpose, then even laying down here is no longer pointless.",
+            "pos": "R",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "What kind of purpose do you want?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "I don’t know... To be honest, I don’t have anything I really want to do.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So... you need to find something that you want?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah... I guess. In the past, I really wanted to work and get some money for myself. But now..., it’s become like brushing my teeth. I just do it.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "I feel like we are just circling around now. . .",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "What I'm saying is... I've been laying down here every day",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "If I think about it. I don’t have any purpose. There’s nothing I really want to do..",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "So I just live a life with no purpose. That is if it’s just me alone, but if it’s for other people. . .  then maybe I'll find a purpose.",
+            "pos": "R",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So you want to live for other people?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah.",
+            "pos": "R",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So you want to become like a firefighter. . . or something like that?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "No, not like that. Just... one person is enough.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So someone? Like who?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Yeah for you. If it’s with you I think I can find a purpose",
+            "pos": "R",
+            "expression": "Smile"
+        },
+        {
+            "name": "Anna",
+            "sentence": "What?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Huh?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": ".....",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": ".....",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "So like... you want to live for me? What... is this marriage proposal, or something...",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "It’s not. I didn’t say that. You said that.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Well what is it then? Sometimes you have to say this kind of stuff clearly, you know?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Alright. . . alright, you know that I'm bad at this kind of thing right? It is as you said, anyway what I mean is . . . Will you marry me, Anna?",
+            "pos": "R",
+            "expression": "Smile"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will takes a ring from his pocket and shows it to Anna . Anna was surprised but a little while after she let out a little laugh."
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hahaha. See, you can do it if you try. Even though it is soo sooo uncool. But my answer is yes. Of course, I will marry you Will.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will then put the ring on Anna's ring finger. They hugged and then kissed, afterwards they saw one another and laughed happily."
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "That’s not the start of their story. That’s only one of many big milestones in their life."
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "background": "BG-Park",
+    "music": "lesfm-emotional",
+    "flashback": true,
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        },
+        {
+            "name": "Baker"
+        },
+        {
+            "name": "Painter"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "Not wanting to remember this stuff, Will walks away from the store.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "But not long after walking away from the store, he sees a street painter. The street painter wasn’t some random street painter.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Usually, when Will and Anna walk back to their apartment, Anna would make the painter draw something really stupid.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Hey there, oh great painter of the century.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Painter",
+            "sentence": "Sigh... What do you want this time...?",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": " The painter lets out a small sigh, knowing this customer is probably going to ask him something random again",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "Draw me something!",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Painter",
+            "sentence": "Not again. . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "Not again. . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "You see... we got this high quality garlic that is of . .",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The painter interrupt without letting Anna finish her sentence",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Painter",
+            "sentence": "That’s just one painfully average garlic, what are you on ab--",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Anna intterupts the painter back",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Anna",
+            "sentence": "It's a HIGH QUAlity garlic. Now draw it.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Painter",
+            "sentence": "Sigh. . . I’d rather draw you lovebirds than those random request, for the same price of course.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "It better be a good drawing or I'm not paying",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The painter starts to draw the lovebirds. After a while the painter’s done with his work.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Painter",
+            "sentence": "I’m done. What do you think? I draw this with your chemistry and personality in mind.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "The couple is a frequent customer of the painter, so he has a feel of their personality from all those random request that he have gotten in the past",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "This is. . . just one painfully average painting of us. . . Anna, what do you think?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will glances at Anna, but Anna doesn't say anything. She just hug her big grocery bag. And smiles.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "It doesn’t have to be a masterfully made painting or a professionally taken photo. It’s their picture.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator-Participant",
+            "sentence": "And at that point, it’s already perfect. At least, that’s what Will thought when he saw her smile.",
+            "pos": "L",
+            "expression": "Idle"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+  "background": "BG-Apartment_Hallway",
+  "music": "lesfm-sorrow",
+  "participants": [
+    {
+      "name": "Will"
+    },
+    {
+      "name": "NeighborHusband"
+    },
+    {
+      "name": "NeighborWife"
+    }
+  ],
+  "sentences": [
+    {
+      "name": "Narator",
+      "sentence": "Not long afterwards, Will found himself in front of his apartment. Apartment number 409."
+    },
+    {
+      "name": "Narator",
+      "sentence": "His hands are shaking as it is nearing the door handle. Will takes a deep breath, he is readying himself to open his apartment."
+    },
+    {
+      "name": "Narator",
+      "sentence": "Before he can do that though, he is interrupted by the newly moved couple."
+    },
+    {
+      "name": "NeighborHusband",
+      "sentence": "Oh hello there, you must be room 409 occupant.",
+      "pos": "L",
+      "expression": "Idle"
+    },
+    {
+      "name": "NeighborWife",
+      "sentence": "Hello, we just moved into room 410. We have a gift for you guys, I heard from our other neighbor that you are living with your wife right?",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Narator",
+      "sentence": "Will frowns when he hears that. He hates it when someone reminds him of Anna. Even though his neighbor means no harm, his face shows that he is not happy at all. "
+    },
+    {
+      "name": "Narator",
+      "sentence": "He just wants to quickly get into his room and sleep."
+    },
+    {
+      "name": "Will",
+      "sentence": "Thanks, i’m tired right now so goodbye",
+      "pos": "L",
+      "expression": "Sad",
+      "effect" : "shake"
+    },
+    {
+      "name": "Narator-Participant",
+      "sentence": "Will takes the gift and goes inside his apartment.",
+      "sfx" : "door-closed"
+    },
+    {
+      "name": "NeighborWife",
+      "sentence": "Hope we did not bother him, he seems to be going through something rough . . .",
+      "pos": "L",
+      "expression": "Idle",
+      "effect" : "shake"
+    },
+    {
+      "name": "NeighborHusband",
+      "sentence": "Probably . . . I hope everything’s okay.",
+      "pos": "R",
+      "expression": "Idle"
+    }
+  ]
+}

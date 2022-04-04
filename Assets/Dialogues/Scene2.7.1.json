@@ -1,0 +1,26 @@
+{
+    "background": "BG-Hospital",
+    "music": "spheria-dont-forget-me-alternative-version",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "Some time after they married, Anna was diagnosed with acute leukemia and she has been hospitalized for quite some time."
+        },
+        {
+            "name": "Narator",
+            "sentence": "After work, Will always rushes his way to the hospital."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Hoping that Anna will be cured someday. Today is no different, he rushes his way just to be together with Anna."
+        }
+    ]
+}

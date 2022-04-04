@@ -1,0 +1,74 @@
+{
+    "background": "BG-Inside-Orphanage",
+    "music": "lesfm-drama",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Tims"
+        },
+        {
+            "name": "Chloe"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "Tims carry Will inside and call their caretaker"
+        }, 
+        {
+            "name": "Tims",
+            "sentence": "Chloe. . . Chloe! ! ! Can you come here!?",
+            "pos": "L",
+            "expression": "Idle"
+        }, 
+        {
+            "name": "Chloe",
+            "sentence": "What is it, Tims? Lower your voice. You could wake up the children. So did you fix the bell?",
+            "pos": "L",
+            "expression": "Idle"
+        }, 
+        {
+            "name": "Chloe",
+            "sentence": "Oh my. . . William ! ?",
+            "pos": "L",
+            "expression": "Idle",
+            "effect":"shake"
+        },        
+        {
+            "name": "Narator-Participant",
+            "sentence": "Chloe knows how hard it is for Will since Anna’s death. She doesn’t say a single word."
+        },        
+        {
+            "name": "Narator-Participant",
+            "sentence": "Immediately She takes some towels and clothes and gives it to Will. It is clear that Will is not in a good shape whatsoever."
+        }, 
+        {
+            "name": "Chloe",
+            "sentence": "Dry yourself and use this.",
+            "pos": "L",
+            "expression": "Idle"
+        },        
+        {
+            "name": "Narator-Participant",
+            "sentence": "Will dry himself and change into the new clothes. When he comes back from the bathroom, he smells a familiar scent."
+        },        
+        {
+            "name": "Narator-Participant",
+            "sentence": "Chloe prepares a hot cocoa to warm his body."
+        }, 
+        {
+            "name": "Chloe",
+            "sentence": "Drink this Will, then rest. You can sleep in an empty bedroom on the 2nd floor. We can talk tomorrow.",
+            "pos": "L",
+            "expression": "Idle"
+        }, 
+        {
+            "name": "Will",
+            "sentence": "Mmm.. Thank you Chloe.",
+            "pos": "R",
+            "expression": "Idle"
+        }
+    ]
+}

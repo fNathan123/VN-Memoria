@@ -1,0 +1,82 @@
+{
+  "background":"BG1",
+  "music":"bensound-november",
+  "participants":
+  [
+    {
+        "name": "NeighborA"
+    },
+    {
+        "name": "NeighborB"
+    }
+  ],
+
+  "sentences":
+  [
+    {
+      "name": "Narator",
+      "sentence": "Neighbor A walk through the hallway and sees that room 479 light's is off again"
+    },
+    {
+      "name": "NeighborA",
+      "sentence": "Hmmm.. this room's light is off again..",
+      "pos": "L",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborA",
+      "sentence": "Dear I'm home...",
+      "pos": "L",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborB",
+      "sentence": "Welcome home dear, how's your day?",
+      "pos": "R",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborA",
+      "sentence": "Nothing special, another day another headache. I can't stand with that fat bastard( the boss)",
+      "pos": "L",
+      "expression" : "Idle",
+      "effect" : "shake"
+    },
+    {
+      "name": "NeighborB",
+      "sentence": "Oh please don't be like that.",
+      "pos": "R",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborA",
+      "sentence": "Anyway, I'm kinda curious with our neighbor of room 479, who were they again?",
+      "pos": "L",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborB",
+      "sentence": "Oh you mean Will and Anna?",
+      "pos": "R",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborA",
+      "sentence": "Ah yes, are they moving out? I feel like the room is always empty nowadays.",
+      "pos": "L",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborB",
+      "sentence": "I'm not sure about that, I saw Will a couple of times, but I never saw Anna ever since the day she was hospitalized.",
+      "pos": "R",
+      "expression" : "Idle"
+    },
+    {
+      "name": "NeighborA",
+      "sentence": "Oh what a poor little guy",
+      "pos": "L",
+      "expression" : "Idle"
+    }
+  ]
+}

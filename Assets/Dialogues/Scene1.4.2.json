@@ -1,0 +1,51 @@
+{
+  "background": "BG-Apartment",
+  "music": "lesfm-emotional",
+  "flashback": true,
+  "participants": [
+    {
+      "name": "Will"
+    },
+    {
+      "name": "Anna"
+    }
+  ],
+  "sentences": [
+    {
+      "name": "Will",
+      "sentence": "Haahhhh~ i’m home.",
+      "pos": "L",
+      "expression": "Smile"
+    },
+    {
+      "name": "Anna",
+      "sentence": "Welcome home! Will! How's your day?",
+      "pos": "R",
+      "expression": "Idle"
+    },
+    {
+      "name": "Will",
+      "sentence": "Well it’s okay i guess, i got tipped by the client so that’s a plus.",
+      "pos": "L",
+      "expression": "Grin"
+    },
+    {
+      "name": "Anna",
+      "sentence": "That’s nice to hear. . . .",
+      "pos": "R",
+      "expression": "Smile-Side-Flip"
+    },
+    {
+      "name": "Anna",
+      "sentence": "Anyway what do you want to eat for today?",
+      "pos": "R",
+      "expression": "Smile-Side-Flip"
+    },
+    {
+      "name": "Anna",
+      "sentence": "And Look at this !!! Chloe gives us lots of fruits!",
+      "pos": "R",
+      "expression": "Smile-Side-Flip"
+    }
+  ]
+}

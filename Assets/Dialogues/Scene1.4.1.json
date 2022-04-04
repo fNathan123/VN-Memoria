@@ -1,0 +1,48 @@
+{
+  "background": "BG-Apartment",
+  "music": "lesfm-sorrow",
+  "flashback": false,
+  "nextSceneStatus": "Flashback",
+  "participants": [
+    {
+      "name": "Will"
+    },
+    {
+      "name": "Anna"
+    }
+  ],
+  "sentences": [
+    {
+      "name": "Narator",
+      "sentence": "The room is dark, Will goes inside, closes the door, and goes towards the living room without turning on the lights."
+    },
+    {
+      "name": "Narator",
+      "sentence": "The place is messy and has not been cleaned in a while. "
+    },
+    {
+      "name": "Narator",
+      "sentence": "Will only uses this as a place to sleep but since work was not as tiring today, he did not collapse like he usually would."
+    },
+    {
+      "name": "Narator",
+      "sentence": "So, Will sits on the couch in the living room, hoping if he sits down maybe he can sleep and forget everything."
+    },
+    {
+      "name": "Narator",
+      "sentence": "The room is so silent that you probably can hear a pin drop."
+    },
+    {
+      "name": "Narator",
+      "sentence": "Many months ago, this room would not have been this silent, because Anna would be cooking or watching the TV."
+    },
+    {
+      "name": "Narator",
+      "sentence": "Anna would welcome Will home everyday because she was always home first."
+    },
+    {
+      "name": "Narator",
+      "sentence": "Will feels like time is moving so slowly whenever he comes back home, he looks at the kitchen and reminisces about what it was like when Anna was still in this world"
+    }
+  ]
+}

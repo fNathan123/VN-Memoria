@@ -1,0 +1,54 @@
+{
+    "background": "BG-Tree",
+    "music": "juliush-rain-tears",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "It starts raining, Will takes cover under the tree from the rain and starts leaning on the tree as he sits. Under normal circumstances, he would start to think."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Think about many things."
+        },
+        {
+            "name": "Narator",
+            "sentence": "When should he get home?"
+        },
+        {
+            "name": "Narator",
+            "sentence": "How would Anna greet him?"
+        },
+        {
+            "name": "Narator",
+            "sentence": "What kind of food would be on the table?"
+        },
+        {
+            "name": "Narator",
+            "sentence": "How low is the temperature on the A/C?"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Should he increase it?"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Or just let Anna enjoy sleeping on top of mount everest in their cramped apartment?"
+        },
+        {
+            "name": "Narator",
+            "sentence": "However, now he doesn’t want to think or remember any of that and just closes his eyes."
+        },
+        {
+            "name": "Narator",
+            "sentence": "But it makes things worse, he remembers the worst day of his life"
+        }
+    ]
+}

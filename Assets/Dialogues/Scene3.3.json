@@ -1,0 +1,129 @@
+{
+    "background": "BG-Inside-Orphanage",
+    "music": "lesfm-drama",
+    "participants": [
+        {
+            "name": "Will"
+        },
+        {
+            "name": "Tims"
+        },
+        {
+            "name": "Chloe"
+        }
+    ],
+    "sentences": [
+        {
+            "name": "Narator",
+            "sentence": "The next morning, Will gets up late showing that he was exhausted last night and maybe because it’s been a while since he had a good rest, he feels a little refreshed."
+        },
+        {
+            "name": "Narator",
+            "sentence": "He then thinks he is late for work but then realizes that it’s Saturday."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Will takes a bath and then goes to the orphanage kitchen, he sees Tims, Chloe and some of the orphanage caretakers are preparing lunches for the children."
+        },
+        {
+            "name": "Chloe",
+            "sentence": "Oh William, looks like you are finally awake.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Tims",
+            "sentence": "Looks like you have a good rest, you look like shit yesterday bro.",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Chloe",
+            "sentence": "Tims, mind your manners. What if the children heard you.",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Tims",
+            "sentence": "Ehh. . .  fine Chloe, anyway if you have nothing to do. Come helps us out Will",
+            "pos": "R",
+            "expression": "Smile-Side-Flip"
+        },
+        {
+            "name": "Will",
+            "sentence": "Sure. . .",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Will helps since he has nothing to do."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Afterwards they had lunch with the children and it was free time in the orphanage until the afternoon classes."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Since it’s free time Will is walking around the orphanage with no purpose in mind until Tims hugs his shoulder from behind."
+        },
+        {
+            "name": "Tims",
+            "sentence": "So what happened last night Will? Like a ghost, you suddenly show up like that. . . I haven't heard from you since. . . you know. . .",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Nothing tims. I was just tired.",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Tims",
+            "sentence": "I’m just worried about you man. You know you can always talk to me right?",
+            "pos": "L",
+            "expression": "Idle"
+        },
+        {
+            "name": "Will",
+            "sentence": "I know. . .",
+            "pos": "R",
+            "expression": "Idle"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Their short reunion was interrupted by a bell that means break time is over."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Tims is a teacher and helps teach the children extra classes on Saturday."
+        },
+        {
+            "name": "Tims",
+            "sentence": "Aw shoot. . . that’s my cue to teach those rascals. They are even more troublesome than us back then, you know. Let’s talk again later, ok?",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Will",
+            "sentence": "Ok. Don’t be too hard on them now.",
+            "pos": "R",
+            "expression": "WeakSmile"
+        },
+        {
+            "name": "Tims",
+            "sentence": "Haha, I’ll try. Anyway, catch you later.",
+            "pos": "L",
+            "expression": "Smile-Side"
+        },
+        {
+            "name": "Narator",
+            "sentence": "Tims then goes to teach the children, Will watches Tims class for a bit outside. It seems he is well liked by the orphanage children."
+        },
+        {
+            "name": "Narator",
+            "sentence": "Will smiles a little then walks away, he walks around the orphanage and visits the orphanage library."
+        }
+    ]
+}

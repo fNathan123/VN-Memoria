@@ -1,0 +1,31 @@
+{
+  "background":"BG1",
+  "music":"bensound-november",
+  "participants":
+  [
+    {
+        "name": "Will"
+    },
+    {
+        "name": "Neighbor411"
+    }
+  ],
+  "sentences":
+  [
+    {
+      "name": "Will",
+      "sentence": "Lorem ipsum dolor si amet.",
+      "pos": "L",
+      "expression" : "Idle",
+      "effect" : "shake"
+    },
+    {
+      "name": "Neighbor411",
+      "sentence": "Amet si dolor ipsum lorem.",
+      "pos": "R",
+      "expression" : "Idle",
+      "music" : "bensound-sadday",
+      "effect" : "shake"
+    }
+  ]
+}
